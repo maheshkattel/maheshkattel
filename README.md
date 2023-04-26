@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Mahesh Kattel 🇳🇵</h1>
+<h1 align="left">Hi 👋, I'm Mahesh Kattel 😊</h1>
 <img align = "right" alt="Coding"  height="190" width="300" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
 <h3 align="center">Passionate  Mobile developer specialized in Flutter and Dart. As an expert in using Flutter to build cross-platform apps, I'm committed to create user-friendly and efficient mobile experiences, for both iOS and Android devices. I enjoy exploring new technologies and techniques to enhance user experiences.</h3>
 
