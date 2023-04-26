@@ -8,7 +8,11 @@
 </a>&nbsp
 <a href="https://twitter.com/maheshjkattel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maheshjkattel" height="40" width="40" />
 </a>&nbsp
-<a href="https://fb.com/maheshjammarkattel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maheshjammarkattel" height="40" width="40" />&nbsp
+<a href="https://fb.com/maheshjammarkattel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maheshjammarkattel" height="40" width="40" >
+</a>&nbsp
+<a href="https://instagram.com/maheshjammarkattel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maheshjammarkattel" height="40" width="40" />
+</a>&nbsp
+ </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
